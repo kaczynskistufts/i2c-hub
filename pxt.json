@@ -7,7 +7,8 @@
         "microphone": "*",
         "Grove": "github:seeed-studio/pxt-grove#v0.5.0",
         "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "BH1750": "github:makecode-extensions/bh1750#v1.2.0"
     },
     "files": [
         "main.blocks",
